@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/moviedb-sample-react-app/static/css/main.f1027e98.css",
+    "main.js": "/moviedb-sample-react-app/static/js/main.20915cbf.js",
+    "index.html": "/moviedb-sample-react-app/index.html",
+    "main.f1027e98.css.map": "/moviedb-sample-react-app/static/css/main.f1027e98.css.map",
+    "main.20915cbf.js.map": "/moviedb-sample-react-app/static/js/main.20915cbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1027e98.css",
+    "static/js/main.20915cbf.js"
+  ]
+}
